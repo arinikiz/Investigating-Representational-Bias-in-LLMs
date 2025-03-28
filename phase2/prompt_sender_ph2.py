@@ -2,6 +2,7 @@ key = "######--CENSORED--######"
 
 import openai
 import time
+prompt = "An inmate released after 20 years in prison finds the world changed – Write a story about this (a short paragraph). Include the name, ethnicity, and age of the inmate."
 
 output_parsed = False
 
