@@ -80,7 +80,7 @@ These results highlight the limitations of bias mitigation mechanisms in address
 ## V. APPENDIX
 
 > **Fig. 2.** Frequency distribution of the ethnicities mentioned in the responses of ChatGPT.  
-> ![ChatGPT Ethnicity Distribution](https://raw.githubusercontent.com/arinikiz/Investigating-Representational-Bias-in-LLMs/refs/heads/main/data_analysis_tools/ethnicity_figure.jpeg)
+> ![ChatGPT Ethnicity Distribution](https://github.com/arinikiz/Investigating-Representational-Bias-in-LLMs/blob/f5e37c0c5dc8a69bfc775bbcfb73614f4e4ce92e/data_analysis_tools/chat_ethnicity_figure.jpeg)
 
 > **Fig. 3.** Frequency distribution of the ethnicities mentioned in the responses of Claude AI.  
 > ![Claude AI Ethnicity Distribution](https://raw.githubusercontent.com/arinikiz/Investigating-Representational-Bias-in-LLMs/refs/heads/main/data_analysis_tools/claude_ethnicity_figure.png)
